@@ -23,14 +23,9 @@ const Courses = () => {
             Math 323 Probability<br></br>
             Comp 250 Intro to Computer Scienc (Java, Data Structures and
             Algorithms)<br></br>
-            <a href="Counting.html">
-              <u>
-                {" "}
-                Comp 206 Intro to Software System (Unix, Bash, Git and C
-                Programming)
-              </u>
-              <br></br>
-            </a>
+            Comp 206 Intro to Software System (Unix, Bash, Git and C
+            Programming)
+            <br></br>
           </div>
           <div className="py-8 ">
             <FaCat size={30} />
@@ -40,22 +35,6 @@ const Courses = () => {
             </p>
           </div>
         </div>
-        {/* <p className="text-xl">
-            <div>
-              {" "}
-              <a href="Counting.html">
-                Math 240 Discrete Structure <FaCat />
-                <br></br>
-              </a>
-            </div> */}
-        {/* <div>02</div>
-            Math 222 Calculus 3<br></br>
-            Math 323 Probability<br></br>
-            Comp 250 Intro to Computer Scienc (Java, Data Structures and
-            Algorithms)<br></br>
-            Comp 206 Intro to Software System (Unix, Bash, Git and C
-            Programming)
-          </p> */}
       </div>
     </div>
   );
